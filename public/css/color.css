@@ -1,0 +1,20 @@
+a.nav-link {
+    color: black;
+}
+
+footer {
+    background-color: #EBDBCD ;
+}
+
+.reduceOpac {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+header {
+    background-color: #EBDBCD ;
+}
+
+ul.navbar-nav li:hover {
+    background-color:  black;
+}
+

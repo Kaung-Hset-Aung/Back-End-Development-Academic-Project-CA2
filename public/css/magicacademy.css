@@ -1,0 +1,82 @@
+html {
+    background-image: url('https://i.pinimg.com/originals/8d/45/54/8d4554b2a9b7a685d6655a834db6b71b.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    color :#EBDBCD;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+h3{
+    color :#EBDBCD;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+}
+.center {
+    position: absolute;
+    margin: auto;
+    top: 30%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+}
+
+.concon {
+    background-color: rgba(225, 225, 225, 0.9);
+    border-radius: 2%;
+}
+
+.card {
+    min-height: 10vh; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ccc;
+    background-color: #EBDBCD ;
+    
+}
+
+    /* Add any other styling you want for the cards *
+  } */
+  body { 
+    padding-bottom: 60px; 
+}
+
+.left {
+    margin-right: 2%;
+}
+
+.right {
+    margin-left: 2%;
+}
+
+.reduceOpacc {
+    background-color: rgba(13, 123, 219, 0.6);
+}
+
+a {
+    text-decoration: none;
+}
+
+.reduceOpacc {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+footer  {
+    background-color: #EBDBCD;
+}
+
+.popup-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
